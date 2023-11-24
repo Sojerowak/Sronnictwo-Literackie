@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(books-2606859_1280.jpg);
+    height: 500px;
+    text-align: center;
+}
+
+.menu {
+
+display: flex;
+flex-direction: row;
+align-items: center;
+width: 100%;
+justify-content: center;
+}
+
+.kafel {
+
+    width: 100px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.kafel:hover {
+
+    width: 100px;
+    height: 50px;
+    background-color: lightgray;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.kafel:active {
+
+    width: 100px;
+    height: 50px;
+    background-color: wheat;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    background-color: gray;
+}
+
+a {
+    text-decoration: none;
+    
+}
