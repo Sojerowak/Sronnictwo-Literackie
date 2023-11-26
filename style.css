@@ -84,3 +84,16 @@ h3 {
 
     color: red;
 }
+
+.NK {
+
+    display: flex;
+    justify-content: center;
+}
+
+.ons {
+
+    text-align: center;
+    width: 60%;
+    font-size: 30px;
+}
