@@ -114,3 +114,21 @@ footer {
     justify-content: center;
 
 }
+
+.onassek {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+
+.onasdiv {
+
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
